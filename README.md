@@ -24,7 +24,6 @@
 
  ## 👩🏻‍💻 About me
 - contact : shinhh7799@gmail.com
-- develog : https://velog.io/@dkwnrmsidkd
 
 
 <br/>
